@@ -1,5 +1,5 @@
 var axios = require('axios');
-var argv = require('yargs').argv;
+var argv = require('argv');
 var data;
 
 
